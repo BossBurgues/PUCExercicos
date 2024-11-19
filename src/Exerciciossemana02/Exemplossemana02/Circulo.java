@@ -1,4 +1,4 @@
-package Exerciciossemana02;
+package Exerciciossemana02.Exemplossemana02;
 
 public class Circulo {
     // Atributos da classe
