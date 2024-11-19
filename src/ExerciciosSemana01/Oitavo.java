@@ -1,6 +1,5 @@
 package ExerciciosSemana01;
 import java.util.Scanner;
-import java.util.Locale;
 
 /*Desenvolva um algoritmo em Java que peça ao usuário um número inteiro "n"
 e gere um padrão de asteriscos. Por exemplo, se n for 5, o padrão seria assim:
